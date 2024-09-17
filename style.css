@@ -1,0 +1,28 @@
+div {
+  background-color: aqua;
+  background-position: 10px;
+  font: 100;
+  font-style: italic;
+}
+p {
+  font-style: italic;
+  font-weight: 100;
+  color: aquamarine;
+  background-color: darkgray;
+}
+.user-profile1 {
+  font-size: 20px;
+  text-align: center;
+  background-color: blue;
+  padding: 50px;
+  width: 60px;
+  height: 60px;
+}
+.user-profile3 {
+  background-color: blueviolet;
+  height: 50%;
+  width: 50%;
+  text-align: center;
+  box-sizing: border-box;
+  font-size: 59px;
+}
